@@ -41,14 +41,17 @@ Genre tag and Video Count
 **Tukey Post Hoc Tests** on each revealed significant results for:
 
 *View Count:*
+
 Entertainment - Lifestyle (Sociology)
 Lifestyle (Sociology) - Music
 
 *Subscriber Count:*
+
 Lifestyle (Sociology) - Music
 Entertainment - Lifestyle (Sociology) 
 
 *Video Count:*
+
 Entertainment - Lifestyle (Sociology)    
 Entertainment - Music
 
@@ -63,12 +66,14 @@ Country of Origin and Video Count
 **Tukey Post Hoc Tests** on each revealed significant results for:
 
 *View Count:*
+
 India vs. Brazil
 
 *Subscriber Count:*
 None
 
 *Video Count:*
+
 Brazil vs. India
 India vs. N/A
 India vs. US

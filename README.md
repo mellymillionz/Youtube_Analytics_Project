@@ -34,9 +34,9 @@ We used a data set of the top 500 Channels by Subscriber (as of 9/2019) from Soc
 **One Way ANOVA on top 3 genre tags:**
 (p<0.05) 
 
-Genre tag and View Count
-Genre tag and Subscriber Count
-Genre tag and Video Count
+- Genre tag and View Count
+- Genre tag and Subscriber Count
+- Genre tag and Video Count
 
 **Tukey Post Hoc Tests** on each revealed significant results for:
 
@@ -59,9 +59,9 @@ Entertainment - Music
 **One Way ANOVA on top 4 countries:**
 (p<0.05) 
 
-Country of Origin and View Count
-Country of Origin and Subscriber Count
-Country of Origin and Video Count
+- Country of Origin and View Count
+- Country of Origin and Subscriber Count
+- Country of Origin and Video Count
 
 **Tukey Post Hoc Tests** on each revealed significant results for:
 

@@ -42,18 +42,18 @@ We used a data set of the top 500 Channels by Subscriber (as of 9/2019) from Soc
 
 *View Count:*
 
--Entertainment - Lifestyle (Sociology)
--Lifestyle (Sociology) - Music
+- Entertainment - Lifestyle (Sociology)
+- Lifestyle (Sociology) - Music
 
 *Subscriber Count:*
 
--Lifestyle (Sociology) - Music
--Entertainment - Lifestyle (Sociology) 
+- Lifestyle (Sociology) - Music
+- Entertainment - Lifestyle (Sociology) 
 
 *Video Count:*
 
--Entertainment - Lifestyle (Sociology)    
--Entertainment - Music
+- Entertainment - Lifestyle (Sociology)    
+- Entertainment - Music
 
 
 **One Way ANOVA on top 4 countries:**
@@ -67,16 +67,16 @@ We used a data set of the top 500 Channels by Subscriber (as of 9/2019) from Soc
 
 *View Count:*
 
--India vs. Brazil
+- India vs. Brazil
 
 *Subscriber Count:*
--None
+- None
 
 *Video Count:*
 
--Brazil vs. India
--India vs. N/A
--India vs. US
+- Brazil vs. India
+- India vs. N/A
+- India vs. US
 
 
 # Data Visualizations:

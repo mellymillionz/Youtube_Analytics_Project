@@ -89,13 +89,13 @@ Country Visualization:
 
 Based on these findings, we suggest the following reccomendations to new Youtubers:
 
--In India, you  need to make a lot of video content to compete with top channels.
+- In India, you  need to make a lot of video content to compete with top channels.
 
--If subscriber count is your main focus, consider creating a music channel rather than a lifestyle channel.
+- If subscriber count is your main focus, consider creating a music channel rather than a lifestyle channel.
 
--If view count is your main focus, entertainment channels and music channels are more likely to bring in big viewership  than lifestyle channels ( good to consider for ad revenue!).
+- If view count is your main focus, entertainment channels and music channels are more likely to bring in big viewership  than lifestyle channels ( good to consider for ad revenue!).
 
--Entertainment channels tend to produce more content, so if you want an entertainment channel to succeed consider quantity over quality..
+- Entertainment channels tend to produce more content, so if you want an entertainment channel to succeed consider quantity over quality..
 
 # Study Limitations:
 

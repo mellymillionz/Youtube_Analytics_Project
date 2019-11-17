@@ -31,7 +31,7 @@ We used a data set of the top 500 Channels by Subscriber (as of 9/2019) from Soc
 
 # Statistical Analysis:
 
-1. **One Way ANOVA on top 3 genre tags:**
+**One Way ANOVA on top 3 genre tags:**
 (p<0.05) 
 
 Genre tag and View Count
@@ -56,7 +56,7 @@ Entertainment - Lifestyle (Sociology)
 Entertainment - Music
 
 
-2. **One Way ANOVA on top 4 countries:**
+**One Way ANOVA on top 4 countries:**
 (p<0.05) 
 
 Country of Origin and View Count

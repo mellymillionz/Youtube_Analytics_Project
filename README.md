@@ -92,7 +92,7 @@ Based on these findings, we suggest the following reccomendations to new Youtube
 
 -Entertainment channels tend to produce more content, so if you want an entertainment channel to succeed consider quantity over quality..
 
-#Study Limitations:
+# Study Limitations:
 
 This study had a number of limitations. First, we had limited API calls for Youtube and were thus able to obtain less information from YouTube than we hoped for our original hypothesis. This inexperience meant we used our limited API resources ineffeciently; we would have collected much more robust datasets including video information if we had better understood the limitations from the start.
 

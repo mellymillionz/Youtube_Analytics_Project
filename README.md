@@ -17,12 +17,16 @@ Using the 500 Youtube Channel names, we obtained the following information from 
 # Hypotheses:
 
 1. **Is there a relationship between genre tag and total view counts/subscriber counts/video counts?**
+
 H0 : Count means are equal across genres, or  𝜇1=𝜇1=𝜇3 
+
 H1 : Count means are not equal across genres - one
 
 
 2. **Is there a relationship between country of origin and total view counts/subscriber counts/video counts?**
+
 H0 : Count means are equal between countries, or  𝜇1=𝜇1=𝜇3 
+
 H1 : Count means are not equal between countries
 
 # Data Sources:

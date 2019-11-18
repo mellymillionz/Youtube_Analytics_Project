@@ -1,0 +1,6 @@
+host = 'flatiron.celaliqaishh.us-east-2.rds.amazonaws.com'
+user = 'project_01'
+password = 'Mysqlguest1!'
+marco_key = 'AIzaSyAf_NUOA3TdIMYtZmz0ktKU-0uMIgjQPG8'
+melissa_key = 'AIzaSyAtOWcnM9sUqpMiPZmcgvIb6rWqldQ6fII'
+third_key = 'AIzaSyAAcXiSSU49r_Nbfn2H2wd6c3PKBVb6vHo'
